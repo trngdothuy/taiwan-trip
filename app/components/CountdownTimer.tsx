@@ -28,5 +28,5 @@ export default function CountdownTimer({ targetDate }: { targetDate: string }) {
     return () => clearInterval(interval);
   }, [targetDate]);
 
-  return <div className="text-xl font-bold">{timeLeft}</div>;
+  return <div className="text-xl font-bold">Đếm ngược còn {timeLeft}</div>;
 }
