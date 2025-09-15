@@ -4,7 +4,7 @@ const itinerary = [
   {
     day: 1,
     date: "04/10/25",
-    city: "Đài Bắc - Trung tâm",
+    city: "Đài Bắc - Sôi động, hiện đại - Trung tâm",
     locations: [
       {
         name: "1. Đài tưởng niệm Tưởng Giới Thạch",
@@ -177,7 +177,7 @@ const itinerary = [
   {
     day: 4,
     date: "07/10/25",
-    city: "Đài Trung",
+    city: "Đài Trung - Văn hoá phong phú, gần gũi thiên nhiên",
     locations: [
       {
         name: "1. Làng Cầu Vồng",
@@ -247,7 +247,7 @@ const itinerary = [
   {
     day: 5,
     date: "08/10/25",
-    city: "Đài Nam",
+    city: "Đài Nam - Cổ kính, lịch sử, ẩm thực nổi tiếng",
     locations: [
       {
         name: "1. Mỏ Muối Thất Cổ (Qigu))",
@@ -335,7 +335,7 @@ const itinerary = [
   {
     day: 6,
     date: "09/10/25",
-    city: "Cao Hùng",
+    city: "Cao Hùng - thành phố cảng công nghiệp hiện đại",
     locations: [
       {
         name: "1. Đầm Liên Trì",
@@ -367,7 +367,7 @@ const itinerary = [
       {
         name: "4. Chợ đêm Lưu Hà (Liuhe)",
         time: "Chiều tối",
-        description: "- Mở cửa từ 5h chiều tới 2h sáng, cách ga Formosa chỉ 5p đi bộ",
+        description: "- Mở cửa từ 5h chiều tới 2h sáng, cách ga Formosa chỉ 5p đi bộ\n - Hoặc đi chợ đêm Ruifeng",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTvExj5YE-Jg7AP6bTeyhp_bub4bgNqxgX8w&s",
         mapLink: "https://maps.app.goo.gl/6N5MMYJ5E3VUcFuL8",
         lat: 25.0881,

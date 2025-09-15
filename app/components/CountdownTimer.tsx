@@ -22,11 +22,11 @@ export default function CountdownTimer({ targetDate }: { targetDate: string }) {
       const minutes = Math.floor((diff / 1000 / 60) % 60);
       const seconds = Math.floor((diff / 1000) % 60);
 
-      setTimeLeft(`${days}d ${hours}h ${minutes}m ${seconds}s`);
+      setTimeLeft(`${days} ngày ${hours} giờ ${minutes} phút ${seconds} giây`);
     }, 1000);
 
     return () => clearInterval(interval);
   }, [targetDate]);
 
-  return <div className="text-xl font-bold">Đếm ngược còn {timeLeft}</div>;
+  return <div className="text-xl font-bold">⏰ Đếm ngược còn {timeLeft} 🥳</div>;
 }

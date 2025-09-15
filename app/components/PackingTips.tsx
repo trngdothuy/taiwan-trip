@@ -1,4 +1,4 @@
-const packingList = ["Hộ chiếu", "Quần áo", "Máy ảnh", "Thẻ ngân hàng", "Ổ điện"];
+const packingList = ["Hộ chiếu", "Quần áo, giày đi bộ", "Máy ảnh", "Thẻ ngân hàng", "Ổ điện"];
 const tips = ["Tiền: TWD", "Thời tiết: 20-28°C", "Mua eSIM nội địa (Klook)", "Thẻ đi lại EasyCard"];
 
 export default function PackingTips() {
