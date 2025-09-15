@@ -3,6 +3,7 @@ import CountdownTimer from "./components/CountdownTimer.tsx";
 // import Header from "./components/Header";
 import ItineraryCard from "./components/ItineraryCard";
 import PackingTips from "./components/PackingTips";
+import MorePlaces from "./components/MorePlaces";
 
 
 export default function Home() {
@@ -21,6 +22,7 @@ export default function Home() {
       <section className="flex justify-center gap-4 py-6">
         <a href="#itinerary" className="px-4 py-2 bg-pink-500 text-white rounded hover:bg-blue-600">Lịch Trình</a>
         <a href="#packing" className="px-4 py-2 bg-yellow-500 text-white rounded hover:bg-green-600">Đồ & Mẹo</a>
+        <a href="#more" className="px-4 py-2 bg-green-500 text-white rounded hover:bg-pink-600">Cân nhắc</a>
       </section>
 
       {/* Lịch trình */}
@@ -34,6 +36,13 @@ export default function Home() {
         <h2 className="text-3xl font-bold mb-6 text-center">Đồ & Mẹo Du Lịch</h2>
         <PackingTips />
       </section>
+
+      {/* Cân nhắc */}
+      <section id="more" className="max-w-3xl mx-auto py-12">
+        <h2 className="text-3xl font-bold mb-6 text-center">Cân Nhắc</h2>
+        <MorePlaces />
+      </section>
     </div>
   );
 }
+

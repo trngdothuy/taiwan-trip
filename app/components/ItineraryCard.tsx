@@ -3,7 +3,6 @@
 import { useState } from "react";
 import { itinerary }  from "../data/ItineraryData";
 
-
 export default function ItineraryCard() {
   const [openDay, setOpenDay] = useState<number | null>(null);
 
