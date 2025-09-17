@@ -242,16 +242,7 @@ export const itinerary: DayItinerary[] = [
         lng: 121.5246,
       },
       {
-        name: "2. Đi dạo ngày cuối Taipei",
-        time: "Chiều",
-        description: "- Nghỉ ngơi trung tâm, cafe, mua sắm - cập nhật thêm",
-        image: "https://www.rachelenroute.com/wp-content/uploads/2019/05/cafe-35.jpg",
-        mapLink: "https://maps.app.goo.gl/vzaRsGHFszosqQ418",
-        lat: 25.0881,
-        lng: 121.5246,
-      },
-      {
-        name: "3.1. Mì bò Yong Kang",
+        name: "2. Mì bò Yong Kang",
         time: "Trưa chiều",
         description: "- Mì bò Đài Loan nổi tiếng mlem mlem\n - Gần bến tàu MRT Dongmen đi bộ 5p",
         image: "https://www.thediningexperience.org/wp-content/20170531-Taipei-YongKangBeefNoodle-04.jpg",
@@ -260,13 +251,13 @@ export const itinerary: DayItinerary[] = [
         lng: 121.5645,
       },
       {
-        name: "3.2. Mai Mien Yen Tsai",
-        time: "Trưa chiều",
-        description: "- Mì Michelin, xếp hàng, check lại giờ",
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPDMSj5dvTrVLJTOMSHmXkqxLfWaHOr3ZQug&s",
-        mapLink: "https://maps.app.goo.gl/FiTMM3TavTLF2jR598",
-        lat: 25.0339,
-        lng: 121.5645,
+        name: "3. Đi dạo ngày cuối Taipei",
+        time: "Chiều",
+        description: "- Nghỉ ngơi trung tâm, cafe, mua sắm - cập nhật thêm",
+        image: "https://www.rachelenroute.com/wp-content/uploads/2019/05/cafe-35.jpg",
+        mapLink: "https://maps.app.goo.gl/vzaRsGHFszosqQ418",
+        lat: 25.0881,
+        lng: 121.5246,
       },
       {
         name: "4. Phố Tây Môn Đình",
@@ -304,7 +295,16 @@ export const itinerary: DayItinerary[] = [
     city: "Đài Trung - Văn hoá phong phú, gần gũi thiên nhiên",
     locations: [
       {
-        name: "1. Làng Cầu Vồng",
+        name: "1. Mai Mien Yen Tsai",
+        time: "Sáng - Đài Bắc",
+        description: "- Mì Michelin, xếp hàng, mở cửa 7h - 14h30",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPDMSj5dvTrVLJTOMSHmXkqxLfWaHOr3ZQug&s",
+        mapLink: "https://maps.app.goo.gl/FiTMM3TavTLF2jR598",
+        lat: 25.0339,
+        lng: 121.5645,
+      },
+      {
+        name: "2. Làng Cầu Vồng",
         time: "Trưa",
         description: "- Trả phòng Đài Bắc, đi tàu cao tốc HSR khoảng 47p - 1h tới nơi\n - Nhận phòng, gửi đồ rồi đi chơi\n - Có các bức tranh tường và kiến trúc đầy màu sắc rực rỡ, mang đến không gian nghệ thuật độc đáo\n- Có quầy bán đồ lưu niệm, quán cà phê nhỏ",
         image: "https://static.toiimg.com/photo/91646475.cms",
@@ -313,7 +313,7 @@ export const itinerary: DayItinerary[] = [
         lng: 121.5246,
       },
       {
-        name: "2. Cửa hàng trà sữa Chun Shui Tang",
+        name: "3. Cửa hàng trà sữa Chun Shui Tang",
         time: "Chiều",
         description: "- Đi khoảng 15p ô tô từ Làng Cầu Vồng\n- Cửa hàng nguyên bản đầu tiên, từ năm 1983 \n - Trà sữa trân châu Đài Loan",
         image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/5e/61/68/photo-20190923-110241.jpg?w=800&h=500&s=1",
@@ -322,7 +322,7 @@ export const itinerary: DayItinerary[] = [
         lng: 121.5246,
       },
       {
-        name: "3. Miyahara",
+        name: "4. Miyahara",
         time: "Chiều",
         description: "- Đi bộ khoảng 15p hoặc ô tô 6p, là thiên đường đồ ngọt, điểm đến nổi tiếng của Đài Trung \n - Nên thử kem ở đây\n - Bánh dứa ngon, có cả cafe tầng 2",
         image: "https://taiwanderers.com/wp-content/uploads/2024/09/taichung-49-635x800.jpg",
@@ -340,7 +340,7 @@ export const itinerary: DayItinerary[] = [
       //   lng: 121.5246,
       // },
       {
-        name: "4. Cafe Bugcat Capoo Foam Cat Cafe",
+        name: "5. Cafe Bugcat Capoo Foam Cat Cafe",
         time: "Chiều",
         description: "- Đi bộ 10p, taxi 2p từ\n- Mở 10 - 18h (nghỉ t2) \n - Tầng 2 ga Taichung",
         image: "",
@@ -349,7 +349,7 @@ export const itinerary: DayItinerary[] = [
         lng: 121.5246,
       },
       {
-        name: "5. Nhà hát Quốc gia Đài Trung",
+        name: "6. Nhà hát Quốc gia Đài Trung",
         time: "Chiều tối",
         description: "- Taxi 22p\n- Nhà hát Opera với đặc điểm kiến trúc là thiết kế 'bức tường cong'  \n- Có thể bỏ qua",
         image: "https://www.architecturalrecord.com/ext/resources/Issues/2016/Dec/building-type-studies/1612-Arts-Centers-Toyo-Ito-Associates-Taichung-City-Taiwan-National-Taichung-Theater-01.webp",
@@ -358,7 +358,7 @@ export const itinerary: DayItinerary[] = [
         lng: 121.5246,
       },
       {
-        name: "6. Đầm lầy Cao Mỹ (Gaomei Wetland)",
+        name: "7. Đầm lầy Cao Mỹ (Gaomei Wetland)",
         time: "Hoàng hôn",
         description: "- Cách 30p đi xa, có thể đi nếu có thời gian\n - Là một khu bảo tồn đất ngập nước ở Đài Trung, Đài Loan, nổi tiếng với cảnh hoàng hôn lãng mạn, bãi cát bùn, thảm thực vật phong phú và nhiều loài động vật, đặc biệt là chim di cư\n- Hoàng hôn đẹp, giống biển vô cực",
         image: "https://imageapi.click2.travel/upload/turImageStock/20762/8AGCFVF1OL1S.jpg",
@@ -367,7 +367,7 @@ export const itinerary: DayItinerary[] = [
         lng: 121.5246,
       },
       {
-        name: "7. Chợ đêm Phùng Giáp (Fengchia)",
+        name: "8. Chợ đêm Phùng Giáp (Fengchia)",
         time: "Tối",
         description: "- Chợ đêm nổi tiếng ẩm thực",
         image: "https://didailoan.net/wp-content/uploads/2022/07/cho-dem-phung-giap-1-1.png",
@@ -456,15 +456,15 @@ export const itinerary: DayItinerary[] = [
         lng: 121.5246,
       },
       
-      {
-        name: "5. Xích Khám Lâu (Chihkan Tower)",
-        time: "Chiều",
-        description: "- Pháo đài Provintia là một di tích lịch sử và văn hóa quan trọng ở Đài Nam, Đài Loan, bao gồm các công trình như Đền Haisheng, Biệt thự Wengchang và Trường Đại học Penghu, cùng với bức tượng của Tướng Minh Koxinga, người có công đánh bại quân Hà Lan. \n - Có thể đi tới đền Mazu thờ thần biển lớn nhất Đài Loan ở gần đó\n - Lựa chọn khác là bảng tàng Chimei (nên đi lúc hoàng hôn hoặc tối), hơi hướng Châu Âu",
-        image: "https://www.taiwanquest.com/content/images/2023/03/fort-provintia-chihkan-tower-tainan.jpg",
-        mapLink: "https://maps.app.goo.gl/u8FgLGoc6JWG28jb6",
-        lat: 25.0881,
-        lng: 121.5246,
-      },
+      // {
+      //   name: "5. Xích Khám Lâu (Chihkan Tower)",
+      //   time: "Chiều",
+      //   description: "- Pháo đài Provintia là một di tích lịch sử và văn hóa quan trọng ở Đài Nam, Đài Loan, bao gồm các công trình như Đền Haisheng, Biệt thự Wengchang và Trường Đại học Penghu, cùng với bức tượng của Tướng Minh Koxinga, người có công đánh bại quân Hà Lan. \n - Có thể đi tới đền Mazu thờ thần biển lớn nhất Đài Loan ở gần đó\n - Lựa chọn khác là bảng tàng Chimei (nên đi lúc hoàng hôn hoặc tối), hơi hướng Châu Âu",
+      //   image: "https://www.taiwanquest.com/content/images/2023/03/fort-provintia-chihkan-tower-tainan.jpg",
+      //   mapLink: "https://maps.app.goo.gl/u8FgLGoc6JWG28jb6",
+      //   lat: 25.0881,
+      //   lng: 121.5246,
+      // },
       {
         name: "6. Chợ đêm Đài Nam",
         time: "Tối",
