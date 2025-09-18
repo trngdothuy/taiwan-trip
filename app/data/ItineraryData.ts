@@ -389,7 +389,7 @@ export const itinerary: DayItinerary[] = [
   {
     day: 5,
     date: "08/10/25",
-    city: "Nhật Nguyệt - Đài Nam - Cổ kính, lịch sử, ẩm thực nổi tiếng",
+    city: "Nhật Nguyệt - Đài Nam - Cổ kính, lịch sử",
     locations: [
       // {
       //   name: "1. Mỏ Muối Thất Cổ (Qigu))",
@@ -441,7 +441,7 @@ export const itinerary: DayItinerary[] = [
   {
     day: 6,
     date: "09/10/25",
-    city: "Đài Nam - Cao Hùng - thành phố cảng công nghiệp hiện đại",
+    city: "Đài Nam - Cao Hùng - thành phố cảng hiện đại",
     locations: [
       {
         name: "1. Fu Sheng Hao",
