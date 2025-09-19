@@ -446,9 +446,9 @@ export const itinerary: DayItinerary[] = [
       {
         name: "1. Fu Sheng Hao",
         time: "Sáng",
-        description: "- Ăn sáng Đài Trung 60 năm\n- Mở cửa 6h30 - 18h30\n - Wangou (bánh bột gạo mặn) + súp thịt heo",
+        description: "- Ăn sáng Đài Nam 60 năm\n- Mở cửa 6h30 - 18h30\n - Wangou (bánh bột gạo mặn) + súp thịt heo",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG7ZwCwlRS0nfbLQLYrVpfSKFfdkugqj5tKg&s",
-        mapLink: "https://maps.app.goo.gl/u8FgLGoc6JWG28jb6",
+        mapLink: "https://maps.app.goo.gl/7wm2jU1YGnFDMy5Z8",
         lat: 25.0881,
         lng: 121.5246,
       },
