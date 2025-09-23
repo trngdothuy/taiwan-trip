@@ -185,8 +185,6 @@ export const itinerary: DayItinerary[] = [
         description: "- Gần Chùa Khổng Tử và Art Museum Building\n - Nằm trong hẻm nhỏ, quán là nhà cũ đc cải tạo\n- Mở 14h - 19h, nghỉ t3 t4",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_SZhKoBspbaWBdNfeAV9vxztUxxIb1Mx51g&s",
         mapLink: "https://maps.app.goo.gl/u8FgLGoc6JWG28jb6",
-        lat: 25.0881,
-        lng: 121.5246,
       },
       {
         name: "9. Phố Thần Nông (Shennong)",
