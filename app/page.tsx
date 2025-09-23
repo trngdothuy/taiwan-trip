@@ -15,7 +15,7 @@ export default function Home() {
       <section className="text-center py-12 bg-blue-100">
         <h1 className="text-4xl font-bold mb-4">🌏 3 Mẹ Con Du Hí Đài Loan 2025 </h1>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOjx01TgZS6VLtmG1PzznolQKNk75SV8W35w&s" alt="Đài Loan" className="mx-auto rounded-lg shadow-lg mb-4" />
-        <CountdownTimer targetDate="2025-10-04T00:00:00" />
+        <CountdownTimer targetDate="2025-10-09T00:00:00" />
       </section>
 
       {/* Điều hướng nhanh */}
