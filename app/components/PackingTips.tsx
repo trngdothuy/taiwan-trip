@@ -1,5 +1,5 @@
-const packingList = ["Hộ chiếu", "Quần áo, giày đi bộ", "Máy ảnh", "Thẻ ngân hàng", "Ổ điện"];
-const tips = ["Tiền: TWD", "Thời tiết: 20-28°C", "Mua eSIM nội địa (Klook)", "Thẻ đi lại EasyCard", "App Uber"];
+const packingList = ["Hộ chiếu", "Quần áo, giày đi bộ", "Máy ảnh", "Thẻ ngân hàng", "Ổ điện chân dẹt hoặc 3 chân", "Ô, mũ"];
+const tips = ["Tiền: 1TWD ~ 780VND", "Thời tiết: 20-28°C", "Mua eSIM nội địa (Klook)", "Thẻ đi lại EasyCard: “上” là lên xe quẹt thẻ và “下” là xuống xe quẹt thẻ; bus ở Taichung trong bán kính 10km kể từ lúc quẹt thẻ HOÀN TOÀN MIỄN PHÍ", "App Uber"];
 
 export default function PackingTips() {
   return (
