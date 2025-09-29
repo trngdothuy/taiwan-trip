@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from "react";
-import { itinerary }  from "../data/ItineraryData1";
+import { itinerary }  from "../data/ItineraryData";
 
 export default function ItineraryCard() {
   const [openDay, setOpenDay] = useState<number | null>(null);
