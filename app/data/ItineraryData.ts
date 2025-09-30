@@ -468,7 +468,7 @@ export const itinerary: DayItinerary[] = [
   {
     day: 6,
     date: "11/10/25",
-    city: "Cao Hùng - thành phố cảng hiện đại",
+    city: "Cao Hùng - Thành phố cảng hiện đại",
     locations: [
       {
         name: "1. HSR về Cao Hùng",
@@ -538,7 +538,7 @@ export const itinerary: DayItinerary[] = [
   {
     day: 7,
     date: "12/10/25",
-    city: "Cao Hùng - ngày 2 đi bộ",
+    city: "Cao Hùng - Ngày 2 đi bộ",
     locations: [
       {
         name: "1. Ăn sáng Cao Hùng",
@@ -708,7 +708,7 @@ export const itinerary: DayItinerary[] = [
   {
     day: 8,
     date: "13/10/25",
-    city: "Cao Hùng - bay về",
+    city: "Cao Hùng - Bay về",
     locations: [
       // {
       //   name: "1. Phật Quang Sơn (Fo Guang Shan)",
